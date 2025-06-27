@@ -17,8 +17,6 @@ I love finding innovative solutions through the strategic use of technology.
 
 💬 Ask me about Data Analytics or Web Development, I'll try my best to help!
 
-📫 Reach me on https://www.linkedin.com/in/natalieduchens/
-
 ##⚡️ Fun fact 
 I'm a biotechnologist who codes
 I love cats 🐈‍⬛, nature🏞️, games 👾 and paint 👩‍🎨
@@ -31,10 +29,13 @@ I love cats 🐈‍⬛, nature🏞️, games 👾 and paint 👩‍🎨
 ## 🛠 Skills
 Languages & Tools:
 Java • Python • R • C++ (Arduino) • SQL
+
 Cloud:
 Google Cloud Platform (GCP) • Amazon Web Services (AWS)
+
 Other:
 Data Analytics • Web Development • Version Control (Git)
+
 ![4af8f32d19f6f4ff57faef725cb1147b](https://github.com/user-attachments/assets/02403ea9-ef58-44a2-817d-3d28921c270f)
 ![b8027272774cf4a075e1112e4aec20b3](https://github.com/user-attachments/assets/78b8e90e-2ae9-47a9-a6e4-beb09fdf2894)
 
