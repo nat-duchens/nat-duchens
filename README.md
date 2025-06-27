@@ -37,7 +37,4 @@ Java • Python • R • C++ (Arduino) • SQL  • Git BASH
 
 Google Cloud Platform (GCP) • Amazon Web Services (AWS)
 
-
-![4af8f32d19f6f4ff57faef725cb1147b](https://github.com/user-attachments/assets/02403ea9-ef58-44a2-817d-3d28921c270f)
-
-
+![641c2b170466977 645e34a7760bf](https://github.com/user-attachments/assets/c5f329ad-0071-4a82-a9b9-4e7b840ce4d5)
