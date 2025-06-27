@@ -19,7 +19,7 @@ I love finding innovative solutions through the strategic use of technology.
 💬 Ask me about Data Analytics or Web Development, I'll try my best to help!
 
 ## ⚡Fun fact 
-👩‍🔬 I'm a biotechnologist who codes
+I'm a biotechnologist who codes 👩‍🔬 
 
 I love cats 🐈‍⬛, nature🏞️, games 👾 and paint 👩‍🎨
 
@@ -33,7 +33,7 @@ I love cats 🐈‍⬛, nature🏞️, games 👾 and paint 👩‍🎨
 
 Java • Python • R • C++ (Arduino) • SQL  • Git BASH
 
-☁️Cloud:
+☁️ Cloud:
 
 Google Cloud Platform (GCP) • Amazon Web Services (AWS)
 
