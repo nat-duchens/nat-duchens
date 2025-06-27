@@ -1,27 +1,27 @@
 ![pixel-jeff-mario](https://github.com/user-attachments/assets/29f9060a-f039-4041-9e28-004b3d6fed7f)
 
+# Hi, I'm Nat! 🌱
+
 ## 🚀 About Me
-Web development, Data Analytics, and digital transformation in the Cloud. 
-I'm passionate about finding innovative solutions through the strategic use of technological tools.
+Passionate about Web development, Data Analytics, and Digital Transformation in the Cloud. 
+I love finding innovative solutions through the strategic use of technology.
 
+## What I'm Up To
+👩‍💻 Currently working on Java_projects
 
-# Hi, I'm Nat! 👋
+🧠 Currently learning Web Development with Java
 
+👀 I'm looking to collaborate on anything! I really like to share my knowleadge and help! 
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Java_projects
+🎮 Looking for help to build my first game (why not?)
 
-🧠 I'm currently learning web development with Java
+💬 Ask me about Data Analytics or Web Development, I'll try my best to help!
 
-👯‍♀️ I'm looking to collaborate on anything! I really like to share my knowleadge and help. 
+📫 Reach me on https://www.linkedin.com/in/natalieduchens/
 
-🤔 I'm looking for help to create my first game, why not? 
-
-💬 Ask me about any tip to learn about Data Analytics or Web Development, I'll try my best. 
-
-📫 How to reach me: https://www.linkedin.com/in/natalieduchens/
-
-⚡️ Fun fact I'm a biotechnologist, I love cats 🐈‍⬛ and nature🏞️
+##⚡️ Fun fact 
+I'm a biotechnologist who codes
+I love cats 🐈‍⬛, nature🏞️, games 👾 and paint 👩‍🎨
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com](https://www.kaggle.com/code/natalieduchens/google-s-bike-sharing-case-study-with-r)/)
@@ -29,5 +29,12 @@ I'm passionate about finding innovative solutions through the strategic use of t
 
 
 ## 🛠 Skills
-Java, R, Python, Arduino with C++, GCP, AWS ...
+Languages & Tools:
+Java • Python • R • C++ (Arduino) • SQL
+Cloud:
+Google Cloud Platform (GCP) • Amazon Web Services (AWS)
+Other:
+Data Analytics • Web Development • Version Control (Git)
+![4af8f32d19f6f4ff57faef725cb1147b](https://github.com/user-attachments/assets/02403ea9-ef58-44a2-817d-3d28921c270f)
+![b8027272774cf4a075e1112e4aec20b3](https://github.com/user-attachments/assets/78b8e90e-2ae9-47a9-a6e4-beb09fdf2894)
 
