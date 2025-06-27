@@ -1,35 +1,33 @@
+![pixel-jeff-mario](https://github.com/user-attachments/assets/29f9060a-f039-4041-9e28-004b3d6fed7f)
 
 ## 🚀 About Me
-I'm a just a baby in Java
+Web development, Data Analytics, and digital transformation in the Cloud. 
+I'm passionate about finding innovative solutions through the strategic use of technological tools.
 
 
-# Hola, soy Nat! 👋
+# Hi, I'm Nat! 👋
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently working on Java_projects
 
-🧠 I'm currently learning...
+🧠 I'm currently learning web development with Java
 
-👯‍♀️ I'm looking to collaborate on...
+👯‍♀️ I'm looking to collaborate on anything! I really like to share my knowleadge and help. 
 
-🤔 I'm looking for help with...
+🤔 I'm looking for help to create my first game, why not? 
 
-💬 Ask me about...
+💬 Ask me about any tip to learn about Data Analytics or Web Development, I'll try my best. 
 
-📫 How to reach me...
+📫 How to reach me: https://www.linkedin.com/in/natalieduchens/
 
-😄 Pronouns...
-
-⚡️ Fun fact...
-
+⚡️ Fun fact I'm a biotechnologist, I love cats 🐈‍⬛ and nature🏞️
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com](https://www.kaggle.com/code/natalieduchens/google-s-bike-sharing-case-study-with-r)/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/natalieduchens/)/)
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Java, R, Python, Arduino with C++, GCP, AWS ...
 
