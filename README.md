@@ -1,6 +1,6 @@
 ![pixel-jeff-mario](https://github.com/user-attachments/assets/29f9060a-f039-4041-9e28-004b3d6fed7f)
 
-# Hi, I'm Nat! 🌱
+# Hi, I'm Nat! 🐝
 
 ## 🚀 About Me
 Passionate about Web development, Data Analytics, and Digital Transformation in the Cloud. 
@@ -18,7 +18,7 @@ I love finding innovative solutions through the strategic use of technology.
 
 💬 Ask me about Data Analytics or Web Development, I'll try my best to help!
 
-##⚡️ Fun fact 
+## ⚡Fun fact 
 👩‍🔬 I'm a biotechnologist who codes
 
 I love cats 🐈‍⬛, nature🏞️, games 👾 and paint 👩‍🎨
