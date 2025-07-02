@@ -35,8 +35,8 @@ Java • Python • R • C++ (Arduino) • SQL  • Git BASH
 
 ☁️ Cloud:
 
-• Google Cloud Platform (GCP) -> Cloud Digital Leader
+• Google Cloud Platform (GCP) → Cloud Digital Leader 🫐
 
-• Amazon Web Services (AWS) -> AI Practitioner
+• Amazon Web Services (AWS) → AI Practitioner 🍊
 
 ![641c2b170466977 645e34a7760bf](https://github.com/user-attachments/assets/c5f329ad-0071-4a82-a9b9-4e7b840ce4d5)
