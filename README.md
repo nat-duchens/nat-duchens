@@ -24,8 +24,10 @@ I'm a biotechnologist who codes 👩‍🔬
 I love cats 🐈‍⬛, nature🏞️, games 👾 and paint 👩‍🎨
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com](https://www.kaggle.com/code/natalieduchens/google-s-bike-sharing-case-study-with-r)/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/natalieduchens/)/)
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.kaggle.com/code/natalieduchens/google-s-bike-sharing-case-study-with-r)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalieduchens/)
 
 
 ## 🛠 Skills
