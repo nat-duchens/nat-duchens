@@ -46,8 +46,9 @@ I love cats 🐈‍⬛ and dogs 🐕, nature🏞️, games 👾 and paint 👩�
 
 **🗄️ Databases & Query Tools:**  
 - 📦 SQLite  
-- 🐬 MySQL  
-- 🦫 DBeaver  
+- 🐬 MySQL
+- 🐘 Postgre (baby steps!) 
+- 🦫 DBeaver (baby steps!) 
 
 **🛠 Dev Tools & IDEs:**  
 - 🐈‍⬛ Git & Git Bash  
