@@ -21,7 +21,7 @@ I love finding innovative solutions through the strategic use of technology.
 ## ⚡Fun fact 
 I'm a biotechnologist who codes 👩‍🔬 
 
-I love cats 🐈‍⬛, nature🏞️, games 👾 and paint 👩‍🎨
+I love cats 🐈‍⬛ and dogs 🐕, nature🏞️, games 👾 and paint 👩‍🎨
 
 ## 🔗 Links
 
